@@ -114,6 +114,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Kontak
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Dian Noery - diannoery29@gmail.com
 
-Project Link: [https://github.com/username/todo-list-app](https://github.com/username/todo-list-app)
+Project Link: [https://github.com/diannoery/todo-list-app](https://github.com/username/todo-list-app)
